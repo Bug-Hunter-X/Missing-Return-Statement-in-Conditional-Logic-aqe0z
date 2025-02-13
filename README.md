@@ -1,0 +1,1 @@
+This repository demonstrates a common MATLAB bug involving missing return statements within conditional logic. The `bug.m` file contains the erroneous code, while `bugSolution.m` provides the corrected version.  This issue can be particularly insidious as it may not always produce an immediate error but rather unexpected or incorrect results.
